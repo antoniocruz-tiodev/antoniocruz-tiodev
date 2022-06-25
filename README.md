@@ -26,4 +26,4 @@
   
 ##
   
-![Snake animation](https://github.com/antoniocruz-tiodev/antoniocruz-tiodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/antoniocruz-tiodev/antoniocruz/blob/output/github-contribution-grid-snake.svg)
