@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/antoniocruz-tiodev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniocruz-tiodev&theme=codeSTACKr&show_icons=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocruz-tiodev&layout=compact&langs_count=16&theme=blue-green"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocruz-tiodev&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 
 <div style="display: inline_block"><br>
